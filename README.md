@@ -1,1 +1,1 @@
-# Studies-Projects
+# Studies Projects
