@@ -7,7 +7,7 @@ function main(){
     moveFourTimes();
  }
 
- // Function created to move four times foward and reduce redundance
+ // Function created to move four times forward and reduce redundancy
  function moveFourTimes(){
     move();
     move();
