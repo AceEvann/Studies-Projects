@@ -1,11 +1,11 @@
 # Javascript Variables Exercise
 
-### Given the existing code below, can you write some code so that their values are switched around?
+### Given the existing code below, write some code so that their values are switched around
 
 *var a = "3";* <br/>
 *var b = "8";*
 
-### So that the variable a holds the value "8". And the variable b holds the value "3". When the code is run, it should output:
+### The variable *a* will have to hold the value "8", and the variable *b* the value "3". When the code is run, it should output:
 
 *a is 8* <br/>
 *b is 3*
