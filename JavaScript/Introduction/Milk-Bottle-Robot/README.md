@@ -12,7 +12,7 @@
     console.log("moveUP"); <br/>
     console.log("moveRight"); <br/>
     console.log("moveRight"); <br/>
-    console.log("buy " + bottles + " bottles of milk "); <br/>
+    console.log("Buy " + bottles + " bottles of milk."); <br/>
     console.log("moveLeft"); <br/> 
     console.log("moveLeft"); <br/>
     console.log("moveDown"); <br/>
