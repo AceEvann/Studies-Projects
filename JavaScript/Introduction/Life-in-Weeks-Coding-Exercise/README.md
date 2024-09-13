@@ -1,6 +1,6 @@
 # Life in Weeks Coding Exercise
 
-### Create a function that tells us how many days, weeks and months we have left if we live until 90 years old. It will take your current age as the input and console.logs a message with our time left in this format:
+### Create a function that tells us how many days, weeks and months we have left if we live until 90 years old. The user will put his current age as the input and console.logs a message with the time left in this format:
 
 - *You have x days, y weeks, and z months left.*
 
