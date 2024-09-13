@@ -1,6 +1,6 @@
 # Milk Bottle Robot
 
-### Change the code below to take money instead of bottles. Calculate the number of bottles the robot is able to buy and the exchange he will give you at the end:
+### Change the code below to take money instead of bottles. Calculate the number of bottles the robot is able to buy and the change he will give you at the end:
 
 *function getMilk(bottles) { <br/>
     console.log("leaveHouse"); <br/>
