@@ -1,10 +1,10 @@
 // 1
 var tweet = prompt("Write your tweet: ");
 
-// Use .length to count tweet charecters
+// Use .length to count tweet characters
 var tweetCount = tweet.length;
 
-// Show how much characters was written and then subtrect the limit with them 
+// Show how many characters were written, then subtract the limit from them 
 alert("You have written " + tweetCount + " characters, you have " + 
     (140 - tweetCount) + " characters left");
 
@@ -13,5 +13,5 @@ alert("You have written " + tweetCount + " characters, you have " +
 // 2
 var tweet = prompt("Write your tweet: ");
 
-// Use .slice to limitate how much characters tweet will show
+// Use .slice to imitate how many characters a tweet will show
 alert(tweet.slice(0,141));
